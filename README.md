@@ -3,6 +3,4 @@ var fx = function(data) {
 	m++;
 	m = 3 + m*3;	
 	return m;
-	// comentario
-	m++;
 }
