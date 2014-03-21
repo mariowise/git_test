@@ -3,6 +3,10 @@ var fx = function(data) {
 	m++;
 	// simplemente return	
 	return m;
+<<<<<<< HEAD
+	
+=======
 	// comentario
 	m++;
+>>>>>>> 5f16623cb0646a974fbdef84b5e3748a886e1bb0
 }
