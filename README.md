@@ -3,6 +3,4 @@ var fx = function(data) {
 	m++;
 	// simplemente return	
 	return m;
-	// comentario
-	m++;
 }
