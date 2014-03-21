@@ -1,7 +1,7 @@
 var fx = function(data) {
 	var m = 0;
 	m++;
-	// simplemente return	
+	m = 3 + m*3;	
 	return m;
 	// comentario
 	m++;
